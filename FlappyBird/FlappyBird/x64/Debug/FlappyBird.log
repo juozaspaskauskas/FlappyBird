@@ -1,0 +1,3 @@
+﻿  FlappyBird.cpp
+C:\Users\hope\source\repos\FlappyBird\FlappyBird\FlappyBird.cpp(223,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FlappyBird.vcxproj -> C:\Users\hope\source\repos\FlappyBird\x64\Debug\FlappyBird.exe
